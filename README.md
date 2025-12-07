@@ -30,8 +30,8 @@ I build and fix backend systems using **Java, Spring Boot, REST APIs, and SQL da
 ---
 
 ### 📫 Contact
-Email: your-email  
-LinkedIn: your LinkedIn link  
+Email: madhurg240@gmail.com  
+LinkedIn: www.linkedin.com/in/madhur-gupta-766abc55
 
 _I'm open for freelance and remote projects._
 
