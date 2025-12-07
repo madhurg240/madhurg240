@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Madhur 👋
 
-<!--
-**madhurg240/madhurg240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Java Backend Developer**  
+I build and fix backend systems using **Java, Spring Boot, REST APIs, and SQL databases**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech I Work With
+- Java, Spring Boot, Spring MVC, JPA/Hibernate
+- REST APIs, JSON, Postman
+- MySQL / PostgreSQL / H2
+- Maven / Gradle, Git, Docker (basic)
+
+---
+
+### 💼 What I Do
+- ✔ Fix Java/Spring Boot errors and bugs
+- ✔ Build clean and documented REST APIs
+- ✔ Database integration & query optimization
+- ✔ Small backend systems (Auth, Booking, etc.)
+
+---
+
+### 🚀 Featured Projects
+- (Coming soon) User Management API
+- (Coming soon) Task Manager API
+- Multithreaded Web Server in Java
+- Hotel Management System (Spring Boot)
+
+---
+
+### 📫 Contact
+Email: your-email  
+LinkedIn: your LinkedIn link  
+
+_I'm open for freelance and remote projects._
+
